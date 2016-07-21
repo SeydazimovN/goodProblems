@@ -1,4 +1,6 @@
 # goodProblems
 collection of good problems!
 
-[math]f(x) = x ^ 2[/math]
+https://nurba0000.quora.com/test-Latex
+
+https://nurba0000.quora.com/test-post
