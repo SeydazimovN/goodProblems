@@ -9,9 +9,9 @@ ONE Prob1em per day challenge (!!!)
 
 Day 1 [date: 29.07.2016] :
 
-| NumberOfDay        | ProblemStatement           | comments  | verdict |
-| ------------- |:-------------:| -----:|-------:|
-| 1      | name | # | |
-|  2     | name      |  # |
-| 3 | name      |    # ||
+| NumberOfTheDay        | ProblemStatement           | comments  | verdict |date|
+| ------------- |:-------------:| -----:|-------:|-------:| 
+| 1      | name | # | | 29.07.2016 |
+|  2     | name      |  # | |
+| 3 | name      |    # | | |
 
