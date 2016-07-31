@@ -12,10 +12,10 @@ ONE Prob1em per day challenge (!!!)
 |29.07.2016 |   1      | [Lucky Subsequence](http://codeforces.com/contest/145/problem/C) | First Accepted! Let the Challenge begin!!!|
 |30.07.2016 |   2      |  -   | Whole day in health resort. That's why I have solved nothing in that day :P |
 |31.07.2016 |   3      | [Lucky Queries](http://codeforces.com/contest/145/problem/E) |  Fucking Segment Trees! Still don't know how to PUSH correctly. |
-| 01.08.2016 |   4      | NameOfTheProblemStatement                                        |         |
-| 02.08.2016  |   5      | NameOfTheProblemStatement                                        |         | 
-| 03.08.2016  |   6      | NameOfTheProblemStatement                                        |         | 
-|           |   7      | NameOfTheProblemStatement                                        |         | 
-|           |   8      | NameOfTheProblemStatement                                        |         | 
+| 01.08.2016 |   4      | TheNameOfTheProblemStatement                                        |         |
+| 02.08.2016  |   5      | TheNameOfTheProblemStatement                                        |         | 
+| 03.08.2016  |   6      | TheNameOfTheProblemStatement                                        |         | 
+|           |   7      | TheNameOfTheProblemStatement                                        |         | 
+|           |   8      | TheNameOfTheProblemStatement                                        |         | 
 
 
