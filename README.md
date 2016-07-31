@@ -10,6 +10,12 @@ ONE Prob1em per day challenge (!!!)
 |date       |#OfTheDay | ProblemStatement                                                 | comments                 |
 |-----------|:--------:|:-------------------:                                             | --------------------------:|
 |29.07.2016 |   1      | [Lucky Subsequence](http://codeforces.com/contest/145/problem/C) | First Accepted! Let the Challenge begin!!!|
-|30.07.2016 |   2      | [Lucky Queries](http://codeforces.com/contest/145/problem/E)     |         
-|           |   3      | NameOfTheProblemStatement                                        |          
+|30.07.2016 |   2      |  -   | Whole day in health resort. That's why I have solved nothing in that day :P |
+|30.07.2016 |   3      | [Lucky Queries](http://codeforces.com/contest/145/problem/E)                                         |         |
+|           |   4      | NameOfTheProblemStatement                                        |         |
+|           |   5      | NameOfTheProblemStatement                                        |         | 
+|           |   6      | NameOfTheProblemStatement                                        |         | 
+|           |   7      | NameOfTheProblemStatement                                        |         | 
+|           |   8      | NameOfTheProblemStatement                                        |         | 
+
 
