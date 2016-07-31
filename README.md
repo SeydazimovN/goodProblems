@@ -11,7 +11,7 @@ ONE Prob1em per day challenge (!!!)
 |-----------|:--------:|:-------------------:                                             | --------------------------:|
 |29.07.2016 |   1      | [Lucky Subsequence](http://codeforces.com/contest/145/problem/C) | First Accepted! Let the Challenge begin!!!|
 |30.07.2016 |   2      |  -   | Whole day in health resort. That's why I have solved nothing in that day :P |
-|31.07.2016 |   3      | [Lucky Queries](http://codeforces.com/contest/145/problem/E) |  |
+|31.07.2016 |   3      | [Lucky Queries](http://codeforces.com/contest/145/problem/E) |  Fucking Segment Tree! Still don't know how to correctly make a PUSH. |
 | 01.08.2016 |   4      | NameOfTheProblemStatement                                        |         |
 | 02.08.2016  |   5      | NameOfTheProblemStatement                                        |         | 
 | 03.08.2016  |   6      | NameOfTheProblemStatement                                        |         | 
