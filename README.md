@@ -16,6 +16,6 @@ ONE Prob1em per day challenge (!!!)
 | 02.08.2016  |   5      | [Lorenzo Von Matterhorn](http://codeforces.com/contest/696/problem/A)                                        |     In the begining had a little bug. Eazy.    | 
 | 03.08.2016 |   6      | TheNameOfTheProblemStatement                                        |         | 
 | 04.08.2016 |   7      | CodeForces contest 365 DIV2                                        |         | 
-|           |   8      | TheNameOfTheProblemStatement                                        |         | 
+|           |   8      | [Mishka and Interesting sum](http://codeforces.com/contest/703/problem/D)|         | 
 
 
