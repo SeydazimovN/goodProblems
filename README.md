@@ -17,5 +17,7 @@ ONE Prob1em per day challenge (!!!)
 | 03.08.2016 |   6      | TheNameOfTheProblemStatement                                        |         | 
 | 04.08.2016 |   7      | CodeForces contest 365 DIV2                                        |         | 
 | 05.08.2016 |   8      | [Mishka and Interesting sum](http://codeforces.com/contest/703/problem/D)|         | 
+| 06.08.2016 |   8      | TheNameOfTheProblemStatement | |
+| 07.08.2016 |   8      | CodeForces contest 366 DIV2|         | 
 
 
