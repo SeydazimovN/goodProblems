@@ -29,7 +29,7 @@ ONE Prob1em per day challenge (!!!)
 | 13.08.2016 |   -      | TheNameOfTheProblemStatement | |
 | 14.08.2016 |   -      | TheNameOfTheProblemStatement | |
 | 15.08.2016 |   -      | TheNameOfTheProblemStatement | |
-| 16.08.2016 |   9      | [Puzzles](http://codeforces.com/contest/696/problem/B) | |
+| 16.08.2016 |   9      | [Puzzles](http://codeforces.com/contest/696/problem/B) | math expectation |
 
 
 
