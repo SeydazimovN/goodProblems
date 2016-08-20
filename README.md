@@ -32,6 +32,9 @@ ONE Prob1em per day challenge (!!!)
 | 16.08.2016 |   9      | [Puzzles](http://codeforces.com/contest/696/problem/B) | math expectation |
 | 17.08.2016 |   -      | TheNameOfTheProblemStatement |  |
 | 18.08.2016 |   10     | [Bear and Prime 100](http://codeforces.com/contest/679/problem/A) | it was easy |
+| 19.08.2016 |   -     |  | |
+| 20.08.2016 |   11     | CodeForces contest 368 DIV2 |  |
+
 
 
 
